@@ -358,7 +358,8 @@ The Power BI dashboard includes:
 - **Real-time drill-down** capability to analyze sub-segments
 - **Conditional formatting** highlighting top/bottom performers
 
-[Screenshot: Customer_Purchase_Behavior_Dashboard.pbix]
+[<img width="1330" height="740" alt="Screenshot 2026-04-30 231729" src="https://github.com/user-attachments/assets/1f606ea4-6680-4152-8fb5-4efbb53bf12b" />]
+
 
 ---
 
